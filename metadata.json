@@ -1,0 +1,9 @@
+{
+  "name": "Hotel Booking Management System",
+  "description": "Comprehensive hotel booking engine and property management system with real-time room inventory, guest reservations, check-in desk, and revenue analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
+
